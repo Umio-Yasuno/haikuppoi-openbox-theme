@@ -7,3 +7,7 @@ Useful for custom
 - [X11 color names](https://en.wikipedia.org/wiki/X11_color_names#Color_name_chart)
 
 - [Openbox Help:Themes](http://openbox.org/wiki/Help:Themes)
+
+## icon Source
+
+[retrosmart-openbox-themes](https://github.com/mdomlop/retrosmart-openbox-themes)

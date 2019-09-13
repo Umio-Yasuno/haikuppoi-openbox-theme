@@ -1,1 +1,1 @@
-# haiku-openbox-theme
+# haikuppoi-openbox-theme

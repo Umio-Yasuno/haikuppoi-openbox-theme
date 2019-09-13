@@ -1,6 +1,6 @@
-	Download haikuppoi-openbox-theme.obt from "https://github.com/Umio-Yasuno/haikuppoi-openbox-theme/releases"
-	$ obconf --install haikuppoi-openbox-theme.obt
-						or
-	$ git clone https://github.com/Umio-Yasuno/haikuppoi-openbox-theme
-	$ obconf --archive haikuppoi-openbox-theme/haikuppoi-openbox-theme
-	$ obconf --install haikuppoi-openbox-theme.obt
+Download haikuppoi-openbox-theme.obt from "https://github.com/Umio-Yasuno/haikuppoi-openbox-theme/releases"
+$ obconf --install haikuppoi-openbox-theme.obt
+					or
+$ git clone https://github.com/Umio-Yasuno/haikuppoi-openbox-theme
+$ obconf --archive haikuppoi-openbox-theme/haikuppoi-openbox-theme
+$ obconf --install haikuppoi-openbox-theme.obt

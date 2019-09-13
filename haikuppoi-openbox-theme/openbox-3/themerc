@@ -1,0 +1,155 @@
+# Window geometry
+padding.width: 8
+padding.height: 8
+border.width: 2
+window.client.padding.width: 4
+window.client.padding.height: 2
+window.handle.width: 2
+
+
+# Border colors
+window.active.border.color: Gainsboro
+window.inactive.border.color: Gainsboro
+window.active.client.color: Gainsboro
+window.inactive.client.color: Gainsboro
+
+
+# Text shadows
+#	window.active.label.text.font: shadow=n
+#	window.inactive.label.text.font: shadow=n
+
+# Window title justification
+window.label.text.justify: Left
+
+
+# Active window
+window.active.title.bg: Raised Gradient Vertical
+window.active.title.bg.color: Light Yellow
+window.active.title.bg.colorTo: Gold
+
+window.active.label.bg: Parentrelative
+window.active.label.text.color: Black
+
+window.active.handle.bg: Flat Solid
+window.active.handle.bg.color: Gainsboro
+
+window.active.grip.bg: Flat Solid
+window.active.grip.bg.color: Gainsboro
+
+window.active.button.unpressed.bg: Gradients Diagonal Border
+window.active.button.unpressed.bg.color: Yellow
+window.active.button.unpressed.bg.colorTo: Gold
+window.active.button.unpressed.bg.border.color: Goldenrod
+window.active.button.unpressed.image.color: Goldenrod
+
+window.active.button.hover.bg: Flat Solid Border
+window.active.button.hover.bg.color: Yellow
+window.active.button.hover.bg.border.color: Goldenrod
+window.active.button.hover.image.color: Goldenrod
+
+window.active.button.pressed.bg: Flat Solid Border
+window.active.button.pressed.bg.color: Yellow
+window.active.button.pressed.bg.border.color: Goldenrod
+window.active.button.pressed.image.color: Dark Orange
+
+
+window.active.button.toggled.bg: Flat Solid Border
+window.active.button.toggled.bg.color: Light Yellow
+window.active.button.toggled.bg.border.color: Goldenrod
+window.active.button.toggled.image.color: Goldenrod
+
+window.active.button.toggled.unpressed.bg: Flat Solid Border
+window.active.button.toggled.unpressed.bg.color: Light Yellow
+window.active.button.toggled.unpressed.bg.border.color: Goldenrod
+window.active.button.toggled.unpressed.image.color: Goldenrod
+
+window.active.button.toggled.hover.bg: Flat Solid Border
+window.active.button.toggled.hover.bg.color: Gold
+window.active.button.toggled.hover.bg.border.color: Goldenrod
+window.active.button.toggled.hover.image.color: Goldenrod
+
+window.active.button.toggled.pressed.bg: Flat Solid Border
+window.active.button.toggled.pressed.bg.color: Gold
+window.active.button.toggled.pressed.bg.border.color: Dark Goldenrod
+window.active.button.toggled.pressed.image.color: Dark Goldenrod
+
+
+# Inactive windows
+window.inactive.title.bg: Flat Solid
+window.inactive.title.bg.color: White Smoke
+
+window.inactive.label.bg: Parentrelative
+window.inactive.label.text.color: Dark Slate Gray
+
+window.inactive.handle.bg: Flat Solid
+window.inactive.handle.bg.color: Gainsboro
+
+window.inactive.grip.bg: Flat Solid
+window.inactive.grip.bg.color: Gainsboro
+
+window.inactive.button.unpressed.bg: Flat Solid Border
+window.inactive.button.unpressed.bg.color: Light Gray
+window.inactive.button.unpressed.bg.border.color: Gray
+window.inactive.button.unpressed.image.color: Gray
+
+window.inactive.button.hover.bg: Flat Solid Border
+window.inactive.button.hover.bg.color: Light Gray
+window.inactive.button.hover.bg.border.color: Dim Gray
+window.inactive.button.hover.image.color: Light Slate Gray
+
+window.inactive.button.pressed.bg: Flat Solid Border
+window.inactive.button.pressed.bg.color: Light Gray
+window.inactive.button.pressed.bg.border.color: Dim Gray
+window.inactive.button.pressed.image.color: Slate Gray
+
+
+window.inactive.button.toggled.bg: Flat Solid Border
+window.inactive.button.toggled.bg.color: Dark Gray
+window.inactive.button.toggled.bg.border.color: Web Gray
+window.inactive.button.toggled.image.color: Slate Gray
+
+
+window.inactive.button.toggled.unpressed.bg: Flat Solid Border
+window.inactive.button.toggled.unpressed.bg.color: Dark Gray
+window.inactive.button.toggled.unpressed.bg.border.color: Web Gray
+window.inactive.button.toggled.unpressed.image.color: Slate Gray
+
+window.inactive.button.toggled.hover.bg: Flat Solid Border
+window.inactive.button.toggled.hover.bg.color: Web Gray
+window.inactive.button.toggled.hover.bg.border.color: Web Gray
+window.inactive.button.toggled.hover.image.color: Slate Gray
+
+window.inactive.button.toggled.pressed.bg: Flat Solid Border
+window.inactive.button.toggled.pressed.bg.color: Web Gray
+window.inactive.button.toggled.pressed.bg.border.color: Web Gray
+window.inactive.button.pressed.toggled.image.color: Dark Slate Gray
+
+# Menus
+menu.border.color: White Smoke
+#	menu.items.font: shadow=n
+#	menu.title.text.font: shadow=n
+
+# Menu geometry
+menu.border.width: 2
+menu.overlap.x: 0
+menu.overlap.y: 0
+
+menu.title.bg: Raised Gradient Vertical
+menu.title.bg.color: White Smoke
+menu.title.bg.colorTo: Light Gray
+menu.title.text.color: Black
+menu.title.text.justify: Left
+
+menu.items.bg: Flat Solid
+menu.items.bg.color: Gainsboro
+menu.items.text.color: Black
+menu.items.disabled.text.color: Slate Gray
+
+menu.items.active.bg: Flat Solid
+menu.items.active.bg.color: Gray
+menu.items.active.text.color: Black
+
+menu.separator.color: Gray
+menu.separator.width: 4
+menu.separator.padding.width: 6
+menu.separator.padding.height: 8

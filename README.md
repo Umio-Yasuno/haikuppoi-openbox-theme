@@ -8,6 +8,6 @@ Useful for custom
 
 - [Openbox Help:Themes](http://openbox.org/wiki/Help:Themes)
 
-## icon Source
+##Icon Source
 
-[retrosmart-openbox-themes](https://github.com/mdomlop/retrosmart-openbox-themes)
+[https://github.com/mdomlop/retrosmart-openbox-themes](https://github.com/mdomlop/retrosmart-openbox-themes)

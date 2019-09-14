@@ -15,7 +15,7 @@ window.inactive.client.color: Gainsboro
 
 
 # Text shadows
-#	window.active.label.text.font: shadow=n
+window.active.label.text.font: shadow=y:shadowtint=20
 #	window.inactive.label.text.font: shadow=n
 
 # Window title justification
@@ -50,7 +50,7 @@ window.active.button.hover.image.color: Goldenrod
 window.active.button.pressed.bg: Flat Solid Border
 window.active.button.pressed.bg.color: Yellow
 window.active.button.pressed.bg.border.color: Goldenrod
-window.active.button.pressed.image.color: Dark Orange
+window.active.button.pressed.image.color: Dark Goldenrod
 
 
 window.active.button.toggled.bg: Flat Solid Border
@@ -153,3 +153,16 @@ menu.separator.color: Gray
 menu.separator.width: 4
 menu.separator.padding.width: 6
 menu.separator.padding.height: 8
+
+# OSD
+osd.border.width: 2
+osd.border.color: Light Gray
+
+#osd.bg: Flat Solid Parentrelative
+#osd.label.bg: Parentrelative
+#osd.label.text.color: Black
+#osd.hilight.bg: Flat Solid
+#osd.hilight.bg.color: Yellow
+#osd.unhilight.bg:
+#osd.unhilight.bg.color:
+osd.label.text.font: shadow=y

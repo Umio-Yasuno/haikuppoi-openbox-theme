@@ -11,3 +11,7 @@ Useful for custom
 ## Icon Source
 
 [https://github.com/mdomlop/retrosmart-openbox-themes](https://github.com/mdomlop/retrosmart-openbox-themes)
+
+## Recommended
+
+[https://github.com/mdomlop/retrosmart-icon-theme](https://github.com/mdomlop/retrosmart-icon-theme)

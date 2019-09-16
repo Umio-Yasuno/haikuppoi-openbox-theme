@@ -1,21 +1,24 @@
 # Window geometry
-padding.width: 8
+padding.width: 12
 padding.height: 8
 border.width: 2
 window.client.padding.width: 4
 window.client.padding.height: 2
-window.handle.width: 2
+window.handle.width: 1
 
 
 # Border colors
 window.active.border.color: Gainsboro
 window.inactive.border.color: Gainsboro
+
 window.active.client.color: Gainsboro
 window.inactive.client.color: Gainsboro
 
+#	window.active.title.separator.color: Gainsboro
+#	window.inactive.title.separator.color: Gainsboro
 
 # Text shadows
-window.active.label.text.font: shadow=y:shadowtint=20
+window.active.label.text.font: shadow=y:shadowtint=10:shadowoffset=1
 #	window.inactive.label.text.font: shadow=n
 
 # Window title justification
@@ -154,9 +157,10 @@ menu.separator.width: 4
 menu.separator.padding.width: 6
 menu.separator.padding.height: 8
 
+
 # OSD
 osd.border.width: 2
-osd.border.color: Light Gray
+osd.border.color: Gainsboro
 
 #osd.bg: Flat Solid Parentrelative
 #osd.label.bg: Parentrelative
@@ -165,4 +169,4 @@ osd.border.color: Light Gray
 #osd.hilight.bg.color: Yellow
 #osd.unhilight.bg:
 #osd.unhilight.bg.color:
-osd.label.text.font: shadow=y
+osd.label.text.font: shadow=y:shadowtint=20:shadowoffset=1
